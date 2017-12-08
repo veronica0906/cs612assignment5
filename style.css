@@ -1,0 +1,7 @@
+
+h1{
+	text-align: center;
+}
+.thumbnail a>img, .thumbnail>img{
+	height: 335px;
+}
