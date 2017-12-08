@@ -1,0 +1,23 @@
+extend ../layout
+
+block content
+	.container
+		.row
+			.col-md-7
+				
+				iframe(src="#{movie.flash}", width="720",height="600" )
+			.col-md-5
+				dl.dl-horizontal
+					dt Movie name
+					dd=movie.title
+					dt Director
+					dd=movie.doctor
+					dt Country
+					dd=movie.country
+					dt Language
+					dd=movie.language
+					dt Release year
+					dd=movie.year
+					dt Introduction
+					dd=movie.summary
+
