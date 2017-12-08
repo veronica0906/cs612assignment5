@@ -1,0 +1,18 @@
+
+[{
+    "title": "Avengers 3",
+    "_id": 1,
+    "poster": "https://upload.wikimedia.org/wikipedia/zh/1/1b/Avengers_Age_of_Ultron.jpg"
+}, {
+    "title": "Spiderman 2",
+    "_id": 2,
+    "poster": "/bower_components/images/1.jpg"
+}, {
+    "title": "Transformers 2",
+    "_id": 3, 
+    "poster": "/bower_components/images/2.jpg"
+}, {
+    "title": "Galaxy Guard",
+    "_id": 4,
+    "poster": "/bower_components/images/3.jpg"
+}];
